@@ -1,1 +1,1 @@
-**[Live Preview](https://admin-dashboard-259a9.web.app){ padding: 5px; } >**
+ <a href="https://admin-dashboard-259a9.web.app"><strong>➥ Live Preview</strong></a>
